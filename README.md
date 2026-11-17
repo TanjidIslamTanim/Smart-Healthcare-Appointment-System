@@ -1,5 +1,8 @@
 # 🏥 Smart Healthcare Appointment System
 
+> **Project showcase:** [Browse the static portfolio](portfolio/index.html) · [GitHub Pages publishing guide](PORTFOLIO.md)
+
+
 A **Java-based healthcare appointment management system** designed using Object-Oriented Programming (OOP) principles and established **software design patterns**.
 
 The project demonstrates the practical implementation of the **Factory, Observer, and Strategy Design Patterns** to create a modular, maintainable, flexible, and extensible healthcare appointment system.
